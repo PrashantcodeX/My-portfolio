@@ -1,0 +1,24 @@
+# Robots.txt for Prashant Kumar - Cybersecurity Portfolio
+User-agent: *
+Allow: /
+Allow: /resume/
+Allow: /project%20images/
+
+# Specific search engine crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Sitemap location
+Sitemap: https://prashantkumar.dev/sitemap.xml
